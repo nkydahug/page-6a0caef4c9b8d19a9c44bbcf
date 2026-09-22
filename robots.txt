@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nsmcqnl.cn/sitemap.xml
